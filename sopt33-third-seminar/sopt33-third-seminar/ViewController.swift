@@ -9,6 +9,7 @@ import UIKit
 import SnapKit
 import Then
 
+// SnapKit, Then 실습
 class ViewController: UIViewController {
     
     let boxView = UIView().then {
